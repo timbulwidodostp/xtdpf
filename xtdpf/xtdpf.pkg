@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'xtdpf': Dynamic panel estimation with a fractional dependent variable ((DPF (dynamic panel fractional)) Use xtdpf With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtdpf.ado
+f xtdpf.sthlp
+f xtld.ado
+f xtld.sthlp
+f xtlsdvc.ado
+f xtlsdvc.hlp
+f xtlsdvc_1.ado
+f xtlsdvc_b.ado
+f xtlsdvc_p.ado
