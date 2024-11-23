@@ -1,6 +1,8 @@
 # xtdpf
 Dynamic panel estimation with a fractional dependent variable ((DPF (dynamic panel fractional)) Use xtdpf With STATA 18
 
+https://www.youtube.com/watch?v=HpHHaug0DH8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
